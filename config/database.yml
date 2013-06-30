@@ -35,8 +35,8 @@ production:
   adapter: mysql2
   encoding: utf8
   reconnect: false
-  database: evolvinx-crm_production
+  database: evolvinxcrm
   pool: 5
-  username: root
-  password:
-  host: localhost
+  username: deploy
+  password: MyP4ssW0rd
+  host: ec2-54-225-116-123.compute-1.amazonaws.com
