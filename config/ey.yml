@@ -33,4 +33,5 @@ defaults:
   migrate: true
   migration_command: n
   precompile_assets: true
+  maintenance_on_migrate: false
   
