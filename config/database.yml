@@ -40,3 +40,4 @@ production:
   username: deploy
   password: MyP4ssW0rd
   host: ec2-54-225-116-123.compute-1.amazonaws.com
+  
